@@ -1,6 +1,6 @@
 # Hi, I'm Sahana!
 
-I'm a student at **UC Berkeley** studying Data Science and Cognitive Science, working on applying AI and ML to human decision-making systems.
+I'm a student at **UC Berkeley** studying Computer Science and Cognitive Science, working on applying AI and ML to human decision-making systems.
 
 ## What I Work On: 
 - 💻 **Software engineering & data pipelines** — building scalable, production data pipelines and backend systems, most recently at **Cresta** and **Xiberlinc**
